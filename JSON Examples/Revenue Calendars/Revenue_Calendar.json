@@ -1,0 +1,218 @@
+{
+  "code": "QUA_ViDA",
+  "frequencyCL": "QUARTERLY",
+  "frequencyCLDescription": "Quarterly VAT",
+  "labels": [
+    {
+      "description": "ViDA Quarterly VAT",
+      "languageCL": "EN"
+    }
+  ],
+  "obligationActionsCL": [
+    "FILING",
+    "PAYMENT"
+  ],
+  "ownerCL": "DEMO",
+  "revenuePeriods": [
+    {
+      "endDate": "2024-03-31",
+      "startDate": "2024-01-01",
+      "identificationLabel": null,
+      "revenuePeriodActions": [
+        {
+          "dueDate": "2024-04-30",
+          "fromDate": "2024-04-10",
+          "graceDate": "2024-05-10",
+          "id": null,
+          "obligationActionCL": "FILING",
+          "periodActionCategoryCL": "ORIGINAL",
+          "periodActionPaymentSubtypeCL": null
+        },
+        {
+          "dueDate": "2024-05-10",
+          "fromDate": null,
+          "graceDate": null,
+          "id": null,
+          "obligationActionCL": "PAYMENT",
+          "periodActionCategoryCL": "ORIGINAL",
+          "periodActionPaymentSubtypeCL": "ONCE-OFF"
+        }
+      ]
+    },
+    {
+      "endDate": "2024-06-30",
+      "startDate": "2024-04-01",
+      "identificationLabel": null,
+      "revenuePeriodActions": [
+        {
+          "dueDate": "2024-07-31",
+          "fromDate": "2024-07-10",
+          "graceDate": "2024-08-10",
+          "id": null,
+          "obligationActionCL": "FILING",
+          "periodActionCategoryCL": "ORIGINAL",
+          "periodActionPaymentSubtypeCL": null
+        },
+        {
+          "dueDate": "2024-08-10",
+          "fromDate": null,
+          "graceDate": null,
+          "id": null,
+          "obligationActionCL": "PAYMENT",
+          "periodActionCategoryCL": "ORIGINAL",
+          "periodActionPaymentSubtypeCL": "ONCE-OFF"
+        }
+      ]
+    },
+    {
+      "endDate": "2024-09-30",
+      "startDate": "2024-07-01",
+      "identificationLabel": null,
+      "revenuePeriodActions": [
+        {
+          "dueDate": "2024-10-31",
+          "fromDate": "2024-10-10",
+          "graceDate": "2024-11-10",
+          "id": null,
+          "obligationActionCL": "FILING",
+          "periodActionCategoryCL": "ORIGINAL",
+          "periodActionPaymentSubtypeCL": null
+        },
+        {
+          "dueDate": "2024-11-10",
+          "fromDate": null,
+          "graceDate": null,
+          "id": null,
+          "obligationActionCL": "PAYMENT",
+          "periodActionCategoryCL": "ORIGINAL",
+          "periodActionPaymentSubtypeCL": "ONCE-OFF"
+        }
+      ]
+    },
+    {
+      "endDate": "2024-12-31",
+      "startDate": "2024-10-01",
+      "identificationLabel": null,
+      "revenuePeriodActions": [
+        {
+          "dueDate": "2025-01-31",
+          "fromDate": "2025-01-10",
+          "graceDate": "2025-02-10",
+          "id": null,
+          "obligationActionCL": "FILING",
+          "periodActionCategoryCL": "ORIGINAL",
+          "periodActionPaymentSubtypeCL": null
+        },
+        {
+          "dueDate": "2025-02-10",
+          "fromDate": null,
+          "graceDate": null,
+          "id": null,
+          "obligationActionCL": "PAYMENT",
+          "periodActionCategoryCL": "ORIGINAL",
+          "periodActionPaymentSubtypeCL": "ONCE-OFF"
+        }
+      ]
+    },
+    {
+      "endDate": "2025-03-31",
+      "startDate": "2025-01-01",
+      "identificationLabel": null,
+      "revenuePeriodActions": [
+        {
+          "dueDate": "2025-04-30",
+          "fromDate": "2025-04-10",
+          "graceDate": "2025-05-10",
+          "id": null,
+          "obligationActionCL": "FILING",
+          "periodActionCategoryCL": "ORIGINAL",
+          "periodActionPaymentSubtypeCL": null
+        },
+        {
+          "dueDate": "2025-05-10",
+          "fromDate": null,
+          "graceDate": null,
+          "id": null,
+          "obligationActionCL": "PAYMENT",
+          "periodActionCategoryCL": "ORIGINAL",
+          "periodActionPaymentSubtypeCL": "ONCE-OFF"
+        }
+      ]
+    },
+    {
+      "endDate": "2025-06-30",
+      "startDate": "2025-04-01",
+      "identificationLabel": null,
+      "revenuePeriodActions": [
+        {
+          "dueDate": "2025-07-31",
+          "fromDate": "2025-07-10",
+          "graceDate": "2025-08-10",
+          "id": null,
+          "obligationActionCL": "FILING",
+          "periodActionCategoryCL": "ORIGINAL",
+          "periodActionPaymentSubtypeCL": null
+        },
+        {
+          "dueDate": "2025-08-10",
+          "fromDate": null,
+          "graceDate": null,
+          "id": null,
+          "obligationActionCL": "PAYMENT",
+          "periodActionCategoryCL": "ORIGINAL",
+          "periodActionPaymentSubtypeCL": "ONCE-OFF"
+        }
+      ]
+    },
+    {
+      "endDate": "2025-09-30",
+      "startDate": "2025-07-01",
+      "identificationLabel": null,
+      "revenuePeriodActions": [
+        {
+          "dueDate": "2025-10-31",
+          "fromDate": "2025-10-10",
+          "graceDate": "2025-11-10",
+          "id": null,
+          "obligationActionCL": "FILING",
+          "periodActionCategoryCL": "ORIGINAL",
+          "periodActionPaymentSubtypeCL": null
+        },
+        {
+          "dueDate": "2025-11-10",
+          "fromDate": null,
+          "graceDate": null,
+          "id": null,
+          "obligationActionCL": "PAYMENT",
+          "periodActionCategoryCL": "ORIGINAL",
+          "periodActionPaymentSubtypeCL": "ONCE-OFF"
+        }
+      ]
+    },
+    {
+      "endDate": "2025-12-31",
+      "startDate": "2025-10-01",
+      "identificationLabel": null,
+      "revenuePeriodActions": [
+        {
+          "dueDate": "2026-01-31",
+          "fromDate": "2026-01-10",
+          "graceDate": "2026-02-10",
+          "id": null,
+          "obligationActionCL": "FILING",
+          "periodActionCategoryCL": "ORIGINAL",
+          "periodActionPaymentSubtypeCL": null
+        },
+        {
+          "dueDate": "2026-02-10",
+          "fromDate": null,
+          "graceDate": null,
+          "id": null,
+          "obligationActionCL": "PAYMENT",
+          "periodActionCategoryCL": "ORIGINAL",
+          "periodActionPaymentSubtypeCL": "ONCE-OFF"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "languageCL": "EN",
+  "legalEntity": true,
+  "group": false,
+  "identifiers": [
+    {
+      "identifierTypeCL": "TIN",
+      "identifierValue": "0011223344",
+      "primary": true,
+      "sourceCL": "NATIONAL_TAX_REGISTRY"
+    }
+  ],
+  "classifications": [
+    {
+      "partyClassificationTypeCL": "ECONOMIC_ACTIVITIES",
+      "partyClassificationValue": "26.20.10.00",
+      "sourceCL": "NATIONAL_TAX_REGISTRY"
+    }
+  ],
+  "states": [
+    {
+      "partyStateCL": "IN_BUSINESS",
+      "startDate": "2025-10-06",
+      "sourceCL": "NATIONAL_TAX_REGISTRY"
+    }
+  ],
+  "contacts": [],
+  "names": [
+    {
+      "nameTypeCL": "LEGAL",
+      "fullName": "533",
+      "primary": true,
+      "customname1": "533",
+      "nameStandardCode": "NMSTDORGA1",
+      "sourceCL": "NATIONAL_TAX_REGISTRY"
+    }
+  ],
+  "partyAddresses": [],
+  "partyTypeCode": "ORGADM1",
+  "bankAccounts": [],
+  "preferences": [],
+  "sourceCL": "NATIONAL_TAX_REGISTRY"
+}
